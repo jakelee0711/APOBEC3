@@ -1,2 +1,2 @@
 # APOBEC3
-Script used for APOBEC3-associated mutation analysis
+This is a repository for custom script used in the APOBEC3-associated mutation analysis (Cheong et al.)
